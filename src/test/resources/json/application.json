@@ -1,0 +1,7 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "phoneNumber": "123-456-78-90",
+  "dateOfBirth": "1990-01-01",
+  "hobbies": ["reading", "art", "sport"]
+}
